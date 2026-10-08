@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Basnt+Alamir+Mohammad+%F0%9F%91%8B;Python+Learner+%F0%9F%90%8D;Building+My+First+Projects+%F0%9F%92%BB;Learning+Step+by+Step+%F0%9F%8C%B1" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bassant+Alamir+Mohammad+%F0%9F%91%8B;Python+Learner+%F0%9F%90%8D;Building+My+First+Projects+%F0%9F%92%BB;Learning+Step+by+Step+%F0%9F%8C%B1" alt="Typing SVG"/>
 
 <br><br>
 
